@@ -1,7 +1,5 @@
 {
-  "engines":{
-    "node":"20.17.0"
-  },
+ 
   "name": "rahul-weather",
   "private": true,
   "version": "0.0.0",
@@ -9,7 +7,6 @@
   "scripts": {
     "dev": "vite",
     "build": "vite build",
-    "start":"vite",
     "lint": "eslint .",
     "preview": "vite preview"
   },
