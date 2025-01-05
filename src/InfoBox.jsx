@@ -1,5 +1,6 @@
 import React from 'react';
-import './infoBox.css';
+import './InfoBox.css';
+
 
 const WeatherCard = ({ info }) => {
   const getWeatherClass = () => {
